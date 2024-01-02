@@ -156,14 +156,14 @@ public class loop {
 //        }  System.out.println(sum);
 
         //Q.25 calculate the even days of month
-        int count=0;
-        int days=31;
-        for (int i = 0; i < days; i++) {
-            if(i%2==0){
-                count++;
-            }
-        }
-        System.out.println("The days kunal can go out: "+count+" days");
+//        int count=0;
+//        int days=31;
+//        for (int i = 0; i < days; i++) {
+//            if(i%2==0){
+//                count++;
+//            }
+//        }
+//        System.out.println("The days kunal can go out: "+count+" days");
 
         //Q.26 Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 //        int nsum=0;
@@ -187,6 +187,9 @@ public class loop {
 //        System.out.println("Negative numbers:- "+nsum);
 //        System.out.println("Even positive numbers:- "+esum);
 //        System.out.println("odd positive numbers:- "+osum);
+
+        //Q. 27 Sum of odd numbers
+        
     }
 }   
         
